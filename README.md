@@ -19,7 +19,8 @@
 <ul>
   
   <li> I have 1.5 years of experience as an Android Developer. </li>
-  <li> I have working experience and knowledge About E-commerce App, Notebook- App, Barcode Scanning App, Employee Tracking App, Order Delivery App and few websites. </li>
+  <li> I have working experience and knowledge About E-commerce App,<br>Notebook- App, Barcode Scanning App, Employee Tracking App,<br>
+  Food & Order Delivery App, Webview App and few websites. </li>
   <li> I’m currently working on Android Developement with Java,Kotlin & Flutter. </li>
   <li> I'm a Computer Science & Engineering Student (Passout in 2021). </li>
 <ul>
