@@ -18,7 +18,7 @@
 
 <ul>
   <li> I’m currently working on Android Developement with Java,Kotlin & Flutter. </li>
-  <li> I'm a Computer Science Engineering Student (Passout in 2021). </li>
+  <li> I'm a Computer Science & Engineering Student (Passout in 2021). </li>
 <ul>
 
 ## 💻 Tech Stack
@@ -50,8 +50,8 @@
 ![Android Studio](https://img.shields.io/badge/-1_Step_Grocery_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-foodStar_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-  
 
+  
   ## &#128232; Connect with me
 
  <p align="center">
