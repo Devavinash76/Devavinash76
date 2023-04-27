@@ -43,13 +43,13 @@
 
 ![Android Studio](https://img.shields.io/badge/-Swasthya_bharat_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-RakshakSewa_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Star_Gold_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Riddhi_Gold_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Adhi_Arya_Grocery_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Meet_Dating_App_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-No.1_Grocery_Solution%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-1_Step_Grocery_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-foodStar_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-foodStar_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 
   
   ## &#128232; Connect with me
