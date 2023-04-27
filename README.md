@@ -17,6 +17,9 @@
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 !! 
 
 <ul>
+  
+  <li> I have 1.5 years of experience as an Android Developer. </li>
+  <li> I have working experience and knowledge About E-commerce App, Notebook- App, Barcode Scanning App, Employee Tracking App, Order Delivery App and few websites. </li>
   <li> I’m currently working on Android Developement with Java,Kotlin & Flutter. </li>
   <li> I'm a Computer Science & Engineering Student (Passout in 2021). </li>
 <ul>
@@ -41,15 +44,19 @@
 </br>
 ##   𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 🏆
 
-![Android Studio](https://img.shields.io/badge/-Swasthya_bharat_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-RakshakSewa_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Riddhi_Gold_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Adhi_Arya_Grocery_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Meet_Dating_App_[Not_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Swasthya_bharat_[Flutter|Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-360Notebooks_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-VerifyFa_[Kotlin|Live|Private]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Newsnes_t[Webview|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-N&k_IMEI_Scanner_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-RakshakSewa_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Riddhi_Gold_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Adhi_Arya_Grocery_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Meet_Dating_App_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-No.1_Grocery_Solution%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-1_Step_Grocery_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-foodStar_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-1_Step_Grocery_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-foodStar_[Java_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 
   
   ## &#128232; Connect with me
