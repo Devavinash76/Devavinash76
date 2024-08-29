@@ -18,7 +18,7 @@
 
 <ul>
   
-  <li> I have 2 years of experience as an Android Developer. </li>
+  <li> I have 3 years of experience as an Android Developer. </li>
   <li> I have working experience and knowledge About E-commerce App,<br>Notebook- App, Barcode Scanning App, Employee Tracking App,<br>
   Food & Order Delivery App, Webview App and few websites. </li>
   <li> I’m currently working on Android Developement with Java,Kotlin & Flutter. </li>
