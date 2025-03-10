@@ -1,70 +1,81 @@
-# Er. Avinash-Agnihotri
-![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/116336087/215073475-910bcb6c-916f-484f-b095-82319b80d86e.png)
+# 🚀 Avinash Agnihotri  
+![Banner](https://user-images.githubusercontent.com/116336087/215073475-910bcb6c-916f-484f-b095-82319b80d86e.png)
 
-<h2 align="center">
-  Hey There! This is Avinash Agnihotri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Flutter+Developer;Android+%26+iOS+Developer;Mobile+App+Development;UI%2FUX+Designer;Canva+and+Figma;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=Flutter+%7C+Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
 </p>
 
+---
 
-𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 !! 
+## 👨‍💻 About Me
 
-<ul>
-  <li> I have more than 3 years of experience in Mobile App Development. </li>
-  <li> I have working experience and knowledge About E-commerce App,<br>Notebook- App, Barcode Scanning App, Employee Tracking App,<br>
-  Food & Order Delivery App, Webview App and few websites. </li>
-  <li> I’m currently working as a Mobile App Developer with Flutter. </li>
-  <li> I'm a Computer Science & Engineering Student (Passout in 2021). </li>
-<ul>
+- 🔥 **3+ years** of experience as a **Flutter & Android Developer**.  
+- 📱 **Specialized in cross-platform app development (iOS & Android)**.  
+- 🚀 **Expertise in:** E-commerce, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking, and more.  
+- 💙 Passionate about **clean architecture, scalable apps, and state management (BLoC, GetX, Provider)**.  
+- 🎓 **Computer Science & Engineering Graduate (2021)**.  
 
-## 💻 Tech Stack
+---
 
-![C](https://img.shields.io/badge/-KT-05122A?style=flat&logo=Kotlin&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C#](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp; 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-</br>
+## 🔧 Tech Stack
 
-##   𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 🏆
+### 🌐 **Languages & Frameworks**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-1075C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 
-![Android Studio](https://img.shields.io/badge/-Swasthya_bharat_[Flutter|Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-360Notebooks_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-VerifyFa_[Kotlin|Live|Private]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Newsnes_t[Webview|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-N&k_IMEI_Scanner_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-RakshakSewa_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Riddhi_Gold_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Adhi_Arya_Grocery_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Meet_Dating_App_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-No.1_Grocery_Solution%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-1_Step_Grocery_[Java|Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-foodStar_[Java_Live]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Sanjay_Mart_[Java]%20-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+### ⚙️ **Tools & Technologies**  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 
-## 📩 Connect with me
+---
+
+## 📱 Featured Projects
+
+| Name | Tech Stack | Status |
+|------|-----------|--------|
+| **Swasthya Bharat** | Flutter, Java | ✅ Live |
+| **360 Notebooks** | Java | ✅ Live |
+| **VerifyFa** | Kotlin | 🔒 Private |
+| **NewsNest** | WebView | ✅ Live |
+| **N&K IMEI Scanner** | Java | ✅ Live |
+| **RakshakSewa** | Java | 🚧 In Progress |
+| **Riddhi Gold** | Java | ✅ Live |
+| **Adhi Arya Grocery** | Java | 🚧 In Progress |
+| **Meet Dating App** | Java | 🚧 In Progress |
+| **1 Step Grocery** | Java | ✅ Live |
+| **FoodStar** | Java | ✅ Live |
+
+---
+
+## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinashagnihotri">
-    <img src="https://img.shields.io/badge/-avinashagnihotri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-   </a>
-  <a href="mailto:devavinash76@gmail.com">
-    <img src="https://img.shields.io/badge/-devavinash76@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-   </a>
-  <a href="https://instagram.com/realagnihotri">
-    <img src="https://img.shields.io/badge/-realagnihotri-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/avinashagnihotri" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:devavinash76@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/realagnihotri" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudeep/count.svg)
+
+<p align="center">
+  Show Some ❤️ by ⭐ the Repositories!
 </p>
