@@ -1,5 +1,5 @@
 # 🚀 Avinash Agnihotri  
-![Banner](https://user-images.githubusercontent.com/116336087/215073475-910bcb6c-916f-484f-b095-82319b80d86e.png)
+![Banner](https://raw.githubusercontent.com/Devavinash76/Devavinash76/refs/heads/main/BannerImg.png)
 
 <h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
 
