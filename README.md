@@ -1,6 +1,13 @@
+
+# 🚀 Avinash Agnihotri  
+![Banner](https://raw.githubusercontent.com/Devavinash76/Devavinash76/refs/heads/main/BannerImg.png)
+
+<h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devavinash76/Devavinash76/main/BannerImg.png" alt="Banner" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
 </p>
+
 
 # Avinash Agnihotri
 
@@ -42,7 +49,12 @@ A results-driven Flutter and Android developer with 3+ years of experience, spec
 - **Backend Integration:** Firebase, REST APIs, GraphQL  
 - **Database & Storage:** Hive, SQLite, SharedPreferences, Firestore  
 - **CI/CD & DevOps:** Git, GitHub Actions  
-- **Design & Animation:** Material Design, Custom Animations, Lottie  
+- **Design & Animation:**  
+  - Material Design principles  
+  - Custom Animations including Implicit & Explicit Animations  
+  - Animation Controllers and Tween Animations  
+  - Hero Animations for seamless transitions  
+  - Lottie Animations for rich vector animations and micro-interactions  
 
 ---
 
