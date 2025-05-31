@@ -17,9 +17,10 @@
 
 - 🔥 **3+ years** of experience as a **Flutter Developer**.  
 - 📱 **Specialized in cross-platform app development (iOS & Android)**.  
-- 🚀 **Expertise in:** E-commerce, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking, and more.  
+- 🚀 **Expertise in:** **Music Player**, **SIM Card Management**, E-commerce, Bulk Order, Vendor Management, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking, and more.  
 - 💙 Passionate about **clean architecture, scalable apps, and state management (BLoC, GetX, Provider)**.  
 - 🎓 **Computer Science & Engineering Graduate (2021)**.  
+ 
 
 ---
 
