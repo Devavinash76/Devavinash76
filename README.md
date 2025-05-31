@@ -1,83 +1,81 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devavinash76/Devavinash76/main/muplay-logo.png" alt="Muplay Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Devavinash76/Devavinash76/main/BannerImg.png" alt="Banner" width="800"/>
 </p>
 
-# 🚀 Avinash Agnihotri  
-![Banner](https://raw.githubusercontent.com/Devavinash76/Devavinash76/refs/heads/main/BannerImg.png)
+# Avinash Agnihotri
 
-<h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
+**Flutter Developer | Mobile App Engineer | UI/UX Enthusiast**  
+Location: Noida, Uttar Pradesh  
+Email: [devavinash76@gmail.com](mailto:devavinash76@gmail.com)  
+Phone: +91 99560 05921   
+GitHub: [github.com/Devavinash76](https://github.com/Devavinash76)  
+LinkedIn: [linkedin.com/in/avinashagnihotri](https://linkedin.com/in/avinashagnihotri)  
+
+---
+
+## About Me
+
+A results-driven Flutter and Android developer with 3+ years of experience, specializing in building high-quality, scalable mobile applications. Proficient in Dart, Kotlin, and Java, with expertise in integrating RESTful APIs, optimizing performance, and implementing UI/UX best practices. Strong background in the full software development lifecycle and adept at collaborating with cross-functional teams. Passionate about staying up-to-date with the latest trends in mobile development and continuously improving skills.
+
+---
+
+## 🚀 Featured Projects
+
+| Project                | Platform        | Highlights                                               |
+|------------------------|-----------------|----------------------------------------------------------|
+| [Sim Force](https://apps.apple.com/app/idYOUR_APP_ID)          | iOS (App Store) | SIM management, secure authentication, seamless UI       |
+| [Cidos](https://apps.apple.com/app/idYOUR_APP_ID)              | iOS (App Store) | AI-powered automation, real-time notifications           |
+| [PantherForce App](https://apps.apple.com/app/idYOUR_APP_ID)   | iOS & Android   | Logistics & fleet management, live tracking               |
+| [PantherForce Retail](https://apps.apple.com/app/idYOUR_APP_ID)| iOS (App Store) | Retail management, real-time inventory updates            |
+| [Phone Solution](https://apps.apple.com/app/idYOUR_APP_ID)     | iOS & Android   | Repair & service booking, automated service tracking      |
+| [Partywitty Customer](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Event booking, secure payments, real-time event tracking |
+| [SWASTHYABHARAT GYM](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Health booking platform, Google Maps integration          |
+| [Rakshak Sewa](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)       | Android (Play Store) | Emergency app, GPS tracking, real-time alerts             |
+| [Capsico Food Delivery](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Food ordering, order tracking, secure payments            |
+
+---
+
+## Skills & Tech Stack
+
+- **Languages:** Flutter, Dart, Kotlin, Java  
+- **State Management:** BLoC, GetX, Provider, Redux  
+- **Backend Integration:** Firebase, REST APIs, GraphQL  
+- **Database & Storage:** Hive, SQLite, SharedPreferences, Firestore  
+- **CI/CD & DevOps:** Git, GitHub Actions  
+- **Design & Animation:** Material Design, Custom Animations, Lottie  
+
+---
+
+## Education & Certifications
+
+- Bachelor's degree in Computer Science & Engineering, AKTU Lucknow (2017 - 2021)  
+- Flutter & Dart Mastery  
+- Advanced Firebase for Mobile Apps (LinkedIn)  
+
+---
+
+## Why Work With Me?
+
+- Clean, scalable code that’s easy to maintain  
+- Pixel-perfect UI/UX with smooth animations  
+- Performance-optimized apps with quick load times  
+- Seamless API integrations for robust functionality  
+- Proven experience with real-world, high-traffic apps  
+
+Let’s build something amazing together!  
+Email: [devavinash76@gmail.com](mailto:devavinash76@gmail.com) | Phone: +91 99560 05921  
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
+  <img src="https://profile-counter.glitch.me/Devavinash76/count.svg" alt="Visitor Count" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🔥 **3+ years** of experience as a **Flutter Developer**.  
-- 📱 Specialized in **cross-platform app development (iOS & Android)**.  
-- 🚀 Expertise in **Music Player, SIM Card Management, E-commerce, Bulk Order, Vendor Management, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking**, and more.  
-- 💙 Passionate about **clean architecture, scalable apps, and state management** with **BLoC, GetX, Provider**.  
-- 🎓 **Computer Science & Engineering Graduate (2021)**.  
-
----
-
-## 🔧 Tech Stack
-
-### 🌐 Languages & Frameworks  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/-Dart-1075C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
-
-### ⚙️ Tools & Technologies  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-
----
-
-## 📱 Featured Projects
-
-| Name               | Platforms       | Links                                                                                 |
-|--------------------|-----------------|---------------------------------------------------------------------------------------|
-| **Muplay**          | iOS & Android   | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
-| **Sim Force**       | iOS             | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753)                           |
-| **Cidos**           | iOS             | [iOS](https://apps.apple.com/us/app/cidos/id6741060786)                              |
-| **PantherForce App**| iOS & Android   | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
-| **PantherForce Retail** | iOS          | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488)                |
-| **Phone Solution**  | iOS & Android   | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
-| **PartyWitty**      | iOS & Android   | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
-| **Rakshak Sewa**    | Android         | [Android](https://play.google.com/store/apps/details?id=com.rakshaksewa.app)          |
-| **Capsico**         | iOS & Android   | [iOS](https://apps.apple.com/app/capsico/id1234567890) · [Android](https://play.google.com/store/apps/details?id=com.capsico.app) |
-
----
-
-## 📬 Connect With Me  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinashagnihotri" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Devavinash76" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Devavinash76-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="mailto:devavinash76@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com/in/avinashagnihotri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://instagram.com/realagnihotri" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🔥 Visitor Count  
-![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudeep/count.svg)
-
-<p align="center">
-  Show Some ❤️ by ⭐ the Repositories!
 </p>
