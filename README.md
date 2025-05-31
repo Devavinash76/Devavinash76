@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 **3+ years** of experience as a **Flutter & Android Developer**.  
+- 🔥 **3+ years** of experience as a **Flutter Developer**.  
 - 📱 **Specialized in cross-platform app development (iOS & Android)**.  
 - 🚀 **Expertise in:** E-commerce, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking, and more.  
 - 💙 Passionate about **clean architecture, scalable apps, and state management (BLoC, GetX, Provider)**.  
