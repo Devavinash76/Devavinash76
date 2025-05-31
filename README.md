@@ -4,7 +4,7 @@
 <h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=FlutterDeveloper+Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
 </p>
 
 ---
