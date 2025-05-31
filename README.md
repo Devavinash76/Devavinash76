@@ -80,7 +80,7 @@ Email: [devavinash76@gmail.com](mailto:devavinash76@gmail.com) | Phone: +91 9956
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Devavinash76/count.svg" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Visitors-2000%2B-brightgreen?style=for-the-badge&logo=eye" alt="Visitor Count" />
 </p>
 
 <p align="center">
