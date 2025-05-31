@@ -3,8 +3,7 @@
 **Flutter Developer | Mobile App Engineer | UI/UX Enthusiast**  
 Location: Noida, Uttar Pradesh  
 Email: [devavinash76@gmail.com](mailto:devavinash76@gmail.com)  
-Phone: +91 99560 05921  
-Portfolio: [avainash.dev](https://avainash.dev)  
+Phone: +91 99560 05921   
 GitHub: [github.com/Devavinash76](https://github.com/Devavinash76)  
 LinkedIn: [linkedin.com/in/avinashagnihotri](https://linkedin.com/in/avinashagnihotri)  
 
