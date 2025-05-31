@@ -14,7 +14,7 @@
 - 🔥 **3+ years** of experience as a **Flutter Developer**.  
 - 📱 Specialized in **cross-platform mobile app development (iOS & Android)**.  
 - 🚀 Focused on **clean architecture** and robust **state management** (BLoC, GetX, Provider).  
-- 🎓 **B.Tech in Computer Science & Engineering (2017-2021)** graduate.  
+- 🎓 **B.Tech in Computer Science & Engineering (2021)** graduate.  
 
 ---
 
@@ -42,13 +42,14 @@
 
 | App Name | Platform | Link |
 |----------|----------|------|
+| **Muplay** | iOS / Android | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
 | **Sim Force** | iOS | [App Store](https://apps.apple.com/us/app/sim-force/id6741714753) |
 | **Cidos** | iOS | [App Store](https://apps.apple.com/us/app/cidos/id6741060786) |
 | **PantherForce App** | iOS / Android | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
 | **PantherForce Retail** | iOS | [App Store](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
 | **Phone Solution** | iOS / Android | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
-| **Muplay** | iOS / Android | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
 | **Phone Solution UK** | Android | [Play Store](https://play.google.com/store/apps/details?id=uk.phonesolutionltd.vendor) |
+| **PartyWitty** | iOS / Android | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
 
 ---
 
