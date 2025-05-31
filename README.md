@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devavinash76/Devavinash76/main/muplay-logo.png" alt="Muplay Logo" width="200"/>
+</p>
+
 # 🚀 Avinash Agnihotri  
 ![Banner](https://raw.githubusercontent.com/Devavinash76/Devavinash76/refs/heads/main/BannerImg.png)
 
@@ -12,15 +16,16 @@
 ## 👨‍💻 About Me
 
 - 🔥 **3+ years** of experience as a **Flutter Developer**.  
-- 📱 Specialized in **cross-platform mobile app development (iOS & Android)**.  
-- 🚀 Focused on **clean architecture** and robust **state management** (BLoC, GetX, Provider).  
-- 🎓 **B.Tech in Computer Science & Engineering (2021)** graduate.  
+- 📱 **Specialized in cross-platform app development (iOS & Android)**.  
+- 🚀 **Expertise in:** E-commerce, Food Delivery, WebView Apps, Notebook, Barcode Scanning, Employee Tracking, and more.  
+- 💙 Passionate about **clean architecture, scalable apps, and state management (BLoC, GetX, Provider)**.  
+- 🎓 **Computer Science & Engineering Graduate (2021)**.  
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🌐 Languages & Frameworks  
+### 🌐 **Languages & Frameworks**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/-Dart-1075C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
@@ -28,7 +33,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 
-### ⚙️ Tools & Technologies  
+### ⚙️ **Tools & Technologies**  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
@@ -40,16 +45,15 @@
 
 ## 📱 Featured Projects
 
-| App Name | Platform | Link |
-|----------|----------|------|
-| **Muplay** | iOS / Android | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
-| **Sim Force** | iOS | [App Store](https://apps.apple.com/us/app/sim-force/id6741714753) |
-| **Cidos** | iOS | [App Store](https://apps.apple.com/us/app/cidos/id6741060786) |
-| **PantherForce App** | iOS / Android | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
-| **PantherForce Retail** | iOS | [App Store](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
-| **Phone Solution** | iOS / Android | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
-| **Phone Solution UK** | Android | [Play Store](https://play.google.com/store/apps/details?id=uk.phonesolutionltd.vendor) |
-| **PartyWitty** | iOS / Android | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
+| Name | Platforms | Links |
+|------|-----------|--------|
+| **Muplay** | iOS & Android | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
+| **Sim Force** | iOS | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) |
+| **Cidos** | iOS | [iOS](https://apps.apple.com/us/app/cidos/id6741060786) |
+| **PantherForce App** | iOS & Android | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
+| **PantherForce Retail** | iOS | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
+| **Phone Solution** | iOS & Android | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
+| **PartyWitty** | iOS & Android | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
 
 ---
 
