@@ -30,13 +30,12 @@ A results-driven Flutter and Android developer with 3+ years of experience, spec
 
 | Project                | Platform        | Highlights                                               |
 |------------------------|-----------------|----------------------------------------------------------|
-| [Sim Force](https://apps.apple.com/app/idYOUR_APP_ID)          | iOS (App Store) | SIM management, secure authentication, seamless UI       |
-| [Cidos](https://apps.apple.com/app/idYOUR_APP_ID)              | iOS (App Store) | AI-powered automation, real-time notifications           |
-| [PantherForce App](https://apps.apple.com/app/idYOUR_APP_ID)   | iOS & Android   | Logistics & fleet management, live tracking               |
-| [PantherForce Retail](https://apps.apple.com/app/idYOUR_APP_ID)| iOS (App Store) | Retail management, real-time inventory updates            |
-| [Phone Solution](https://apps.apple.com/app/idYOUR_APP_ID)     | iOS & Android   | Repair & service booking, automated service tracking      |
-| [Partywitty Customer](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Event booking, secure payments, real-time event tracking |
-| [SWASTHYABHARAT GYM](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Health booking platform, Google Maps integration          |
+| [Sim Force](https://apps.apple.com/us/app/sim-force/id6741714753)          | iOS (App Store) | SIM management, secure authentication, seamless UI       |
+| [Cidos](https://apps.apple.com/us/app/cidos/id6741060786)              | iOS (App Store) | AI-powered automation, real-time notifications           |
+| [PantherForce App](https://apps.apple.com/us/app/pantherforce-app/id6739621500)   | iOS & Android   | Logistics & fleet management, live tracking               |
+| [PantherForce Retail](https://apps.apple.com/us/app/pantherforce-retail/id6740855488)| iOS (App Store) | Retail management, real-time inventory updates            |
+| [Phone Solution](https://apps.apple.com/us/app/phone-solution/id6740695502)     | iOS & Android   | Repair & service booking, automated service tracking      |
+| [Partywitty Customer](https://apps.apple.com/in/app/partywitty/id6478442502) | Android (Play Store) | Event booking, secure payments, real-time event tracking |
 | [Rakshak Sewa](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)       | Android (Play Store) | Emergency app, GPS tracking, real-time alerts             |
 | [Capsico Food Delivery](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Food ordering, order tracking, secure payments            |
 
