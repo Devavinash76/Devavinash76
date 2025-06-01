@@ -35,7 +35,7 @@ A results-driven Flutter and Android developer with 3+ years of experience, spec
 | [PantherForce App](https://apps.apple.com/us/app/pantherforce-app/id6739621500)   | iOS & Android   | Logistics & fleet management, live tracking               |
 | [PantherForce Retail](https://apps.apple.com/us/app/pantherforce-retail/id6740855488)| iOS (App Store) | Retail management, real-time inventory updates            |
 | [Phone Solution](https://apps.apple.com/us/app/phone-solution/id6740695502)     | iOS & Android   | Repair & service booking, automated service tracking      |
-| **PartyWitty** | iOS & Android | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) | Event booking, secure payments, real-time event tracking |
+| **PartyWitty** | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) | Event booking, secure payments, real-time event tracking |
 | [Rakshak Sewa](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME)       | Android (Play Store) | Emergency app, GPS tracking, real-time alerts             |
 | [Capsico Food Delivery](https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME) | Android (Play Store) | Food ordering, order tracking, secure payments            |
 
