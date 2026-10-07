@@ -48,13 +48,13 @@ Apps I have built and shipped. Links go to the public store listings.
 | 12 | **Phone Solution** | Vendor app for parts and accessories with order tracking. | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
 | 13 | **SIM Force** | SIM management with secure authentication. | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) |
 | 14 | **PantherForce Retail** | SIM activations and verifications with telecom API integration. | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
-| 15 | **360 Notebooks** | Simple note-taking app in Java (existing app modified, new features added). | [Android](https://play.google.com/store/apps/details?id=com.notebook.notes) |
-| 16 | **Verify App** | Kotlin app for fixed-asset verification via scanner, built end to end. | – |
-| 17 | **N & K App** | Kotlin app for mobile IMEI number verification via scanner, built end to end. | – |
-| 18 | **GoCabs** | Cab booking app. | [Android](https://play.google.com/store/apps/details?id=com.gocabsuser) |
-| 19 | **Vivah Bandhan** | Matrimony app. | [Android](https://play.google.com/store/apps/details?id=com.vivahbandhan.matrimony) |
-| 20 | **Ghumakkad Trip** | Travel app. | [Android](https://play.google.com/store/apps/details?id=com.ghumakkad.trip) |
-| 21 | **Capsico** | Food ordering and delivery app. | [Android](https://play.google.com/store/apps/details?id=emergence.infotech.thecapsico) |
+| 15 | **GoCabs** | Cab booking app. | [Android](https://play.google.com/store/apps/details?id=com.gocabsuser) |
+| 16 | **Vivah Bandhan** | Matrimony app. | [Android](https://play.google.com/store/apps/details?id=com.vivahbandhan.matrimony) |
+| 17 | **Ghumakkad Trip** | Travel app. | [Android](https://play.google.com/store/apps/details?id=com.ghumakkad.trip) |
+| 18 | **Capsico** | Food ordering and delivery app. | [Android](https://play.google.com/store/apps/details?id=emergence.infotech.thecapsico) |
+| 19 | **360 Notebooks** | Simple note-taking app in Java (existing app modified, new features added). | [Android](https://play.google.com/store/apps/details?id=com.notebook.notes) |
+| 20 | **Verify App** | Kotlin app for fixed-asset verification via scanner, built end to end. | – |
+| 21 | **N & K App** | Kotlin app for mobile IMEI number verification via scanner, built end to end. | – |
 
 Also built: **Swasthya Bharat – GYM Booking** (pay-per-day gym booking across 4,200+ gyms in 23 cities, 2022).
 
