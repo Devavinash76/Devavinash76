@@ -34,26 +34,27 @@ Apps I have built and shipped. Links go to the public store listings.
 
 | # | Project | What it does | Stores |
 | - | ------- | ------------ | ------ |
-| 01 | **B-Dealer** – B2B Dealer App | Dealers manage leads, check product details and handle customers from one platform. Built at BABVIP Creations. | [Android](https://play.google.com/store/apps/details?id=com.babvip.dealer) |
-| 02 | **Maangal** – Matrimonial App | Garhwali and Kumaoni matrimonial platform serving Uttarakhand since 2009, with 35,000+ verified profiles and profile screening. | [iOS](https://apps.apple.com/in/app/maangal-com/id6443857149) · [Android](https://play.google.com/store/apps/details?id=com.maangal_maangal.maangal) |
-| 03 | **MuPlay** – Music Streaming App | Spotify-like music player built with Flutter and GetX, with playlists, playback controls and background play. | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
-| 04 | **Kachara Clinic** – E-Waste Collection App | Doorstep e-waste collection: schedule pickups or drop-offs and earn Green Points rewards. | [iOS](https://apps.apple.com/in/app/kachra-clinic/id6757586118) · [Android](https://play.google.com/store/apps/details?id=com.shurt.kachraClinic&hl=en_IN) |
-| 05 | **ProFinderr** – Local E-commerce App | Local shopping with shop discovery, product browsing, cart, secure checkout and real-time order tracking. | [Android](https://play.google.com/store/apps/details?id=com.profinderr.main) |
-| 06 | **ProFinderr Biz** – Seller App | Seller app for product listings, orders, inventory and payments, with real-time order alerts and an analytics dashboard. | [Android](https://play.google.com/store/apps/details?id=com.profinderr.biz) |
-| 07 | **Cidos** – Mobile Parts & Repair App | Buy parts, book repairs for phones, tablets and iPads, and find nearby repair stores. | [iOS](https://apps.apple.com/us/app/cidos/id6741060786) |
-| 08 | **Partywitty Customer** – Party Booking App | Book party packages at restaurants, clubs and lounges across Delhi, Noida and Gurgaon, with real-time availability and secure payments. | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
-| 09 | **Partywitty Partner** – Venue Management App | Event hosts and venues manage bookings, showcase packages and track reservations, with customer chat and analytics. | [iOS](https://apps.apple.com/in/app/partywitty-partner/id6478448419) · [Android](https://play.google.com/store/apps/details?id=com.partywitty.partner) |
-| 10 | **PantherForce** – Vendor Ordering Platform | Bulk ordering of mobile parts and accessories with real-time inventory, order tracking and push notifications. | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
-| 11 | **Phone Solution** | Vendor app for parts and accessories with order tracking. | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
-| 12 | **SIM Force** | SIM management with secure authentication. | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) |
-| 13 | **PantherForce Retail** | SIM activations and verifications with telecom API integration. | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
-| 14 | **360 Notebooks** | Simple note-taking app in Java (existing app modified, new features added). | [Android](https://play.google.com/store/apps/details?id=com.notebook.notes) |
-| 15 | **Verify App** | Kotlin app for fixed-asset verification via scanner, built end to end. | – |
-| 16 | **N & K App** | Kotlin app for mobile IMEI number verification via scanner, built end to end. | – |
-| 17 | **GoCabs** | Cab booking app. | [Android](https://play.google.com/store/apps/details?id=com.gocabsuser) |
-| 18 | **Vivah Bandhan** | Matrimony app. | [Android](https://play.google.com/store/apps/details?id=com.vivahbandhan.matrimony) |
-| 19 | **Ghumakkad Trip** | Travel app. | [Android](https://play.google.com/store/apps/details?id=com.ghumakkad.trip) |
-| 20 | **Capsico** | Food ordering and delivery app. | [Android](https://play.google.com/store/apps/details?id=emergence.infotech.thecapsico) |
+| 01 | **BABVIP** – Company App | The BABVIP Creations app on Google Play: tech solutions to grow your business. Built at BABVIP Creations. | [Android](https://play.google.com/store/apps/details?id=com.babvip.babvipcreations) |
+| 02 | **B-Dealer** – B2B Dealer App | Dealers manage leads, check product details and handle customers from one platform. Built at BABVIP Creations. | [Android](https://play.google.com/store/apps/details?id=com.babvip.dealer) |
+| 03 | **Maangal** – Matrimonial App | Garhwali and Kumaoni matrimonial platform serving Uttarakhand since 2009, with 35,000+ verified profiles and profile screening. | [iOS](https://apps.apple.com/in/app/maangal-com/id6443857149) · [Android](https://play.google.com/store/apps/details?id=com.maangal_maangal.maangal) |
+| 04 | **MuPlay** – Music Streaming App | Spotify-like music player built with Flutter and GetX, with playlists, playback controls and background play. | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
+| 05 | **Kachara Clinic** – E-Waste Collection App | Doorstep e-waste collection: schedule pickups or drop-offs and earn Green Points rewards. | [iOS](https://apps.apple.com/in/app/kachra-clinic/id6757586118) · [Android](https://play.google.com/store/apps/details?id=com.shurt.kachraClinic&hl=en_IN) |
+| 06 | **ProFinderr** – Local E-commerce App | Local shopping with shop discovery, product browsing, cart, secure checkout and real-time order tracking. | [Android](https://play.google.com/store/apps/details?id=com.profinderr.main) |
+| 07 | **ProFinderr Biz** – Seller App | Seller app for product listings, orders, inventory and payments, with real-time order alerts and an analytics dashboard. | [Android](https://play.google.com/store/apps/details?id=com.profinderr.biz) |
+| 08 | **Cidos** – Mobile Parts & Repair App | Buy parts, book repairs for phones, tablets and iPads, and find nearby repair stores. | [iOS](https://apps.apple.com/us/app/cidos/id6741060786) |
+| 09 | **Partywitty Customer** – Party Booking App | Book party packages at restaurants, clubs and lounges across Delhi, Noida and Gurgaon, with real-time availability and secure payments. | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
+| 10 | **Partywitty Partner** – Venue Management App | Event hosts and venues manage bookings, showcase packages and track reservations, with customer chat and analytics. | [iOS](https://apps.apple.com/in/app/partywitty-partner/id6478448419) · [Android](https://play.google.com/store/apps/details?id=com.partywitty.partner) |
+| 11 | **PantherForce** – Vendor Ordering Platform | Bulk ordering of mobile parts and accessories with real-time inventory, order tracking and push notifications. | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
+| 12 | **Phone Solution** | Vendor app for parts and accessories with order tracking. | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
+| 13 | **SIM Force** | SIM management with secure authentication. | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) |
+| 14 | **PantherForce Retail** | SIM activations and verifications with telecom API integration. | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
+| 15 | **360 Notebooks** | Simple note-taking app in Java (existing app modified, new features added). | [Android](https://play.google.com/store/apps/details?id=com.notebook.notes) |
+| 16 | **Verify App** | Kotlin app for fixed-asset verification via scanner, built end to end. | – |
+| 17 | **N & K App** | Kotlin app for mobile IMEI number verification via scanner, built end to end. | – |
+| 18 | **GoCabs** | Cab booking app. | [Android](https://play.google.com/store/apps/details?id=com.gocabsuser) |
+| 19 | **Vivah Bandhan** | Matrimony app. | [Android](https://play.google.com/store/apps/details?id=com.vivahbandhan.matrimony) |
+| 20 | **Ghumakkad Trip** | Travel app. | [Android](https://play.google.com/store/apps/details?id=com.ghumakkad.trip) |
+| 21 | **Capsico** | Food ordering and delivery app. | [Android](https://play.google.com/store/apps/details?id=emergence.infotech.thecapsico) |
 
 Also built: **Swasthya Bharat – GYM Booking** (pay-per-day gym booking across 4,200+ gyms in 23 cities, 2022).
 
