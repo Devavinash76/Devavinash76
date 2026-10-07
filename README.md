@@ -1,5 +1,5 @@
 <div align="center">
 
-<a href="https://devavinash76.github.io/Devavinash76/"><img src="assets/portfolio-full.png" alt="Avinash Kumar Agnihotri Portfolio" width="900"></a>
+<img src="assets/portfolio-full.png" alt="Avinash Kumar Agnihotri Portfolio" width="900">
 
 </div>
