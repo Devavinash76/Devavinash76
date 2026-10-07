@@ -44,13 +44,13 @@ payments: [PhonePe, Stripe, Razorpay]
 status: open to roles + freelance
 ```
 
-📍 Dehradun, Uttarakhand, India · 📧 devavinash76@gmail.com · 📱 +91 99560 05921 · Currently at **BABVIP Creations**
+📍 Dehradun, Uttarakhand, India · Currently at **BABVIP Creations** · Open to Flutter roles and freelance projects
 
 ---
 
-## 📱 Projects
+## Projects
 
-Apps I have built and shipped. Links go to the public store listings.
+**Apps I have built**: select the store links to open the public App Store and Google Play pages.
 
 | | # | Project | What it does | Stores |
 | :-: | - | ------- | ------------ | ------ |
@@ -80,68 +80,69 @@ Also built: **Swasthya Bharat – GYM Booking** (pay-per-day gym booking across 
 
 ---
 
-## 💼 Experience
+## Architecture and tools
 
-**Flutter Developer – BABVIP Creations Pvt. Ltd. (Hybrid, Dehradun)**
-*Sep 2025 – Present*
+<div align="center">
+<a href="https://devavinash76.github.io/Devavinash76/"><img src="assets/site-build.png" alt="Architecture and tools section" width="820"></a>
+</div>
 
-* Implemented Clean Architecture for scalable, modular development.
-* Applied dependency injection (GetIt and Injectable) and the repository pattern.
-* Managed app state with BLoC, GetX and Provider.
+I structure apps in three layers with Clean Architecture, so the code stays modular and easy to maintain.
 
-**Flutter Developer – GMark Technologies (Remote, UK)**
-*Oct 2024 – May 2025*
+| Layer | What lives there |
+| ----- | ---------------- |
+| **Presentation** | Widgets · BLoC / GetX / Provider |
+| **Domain** | Use cases · entities · repository interfaces |
+| **Data** | Repositories · REST APIs · Firebase · Hive / SQLite |
 
-* Built and maintained cross-platform Flutter apps for UK-based clients.
-* Used **GetX** and **BLoC** for scalable state management.
-* Collaborated remotely with product teams to meet business goals.
-
-**Android & Flutter Developer – Elanwrap Technologies (Hybrid, Dehradun)**
-*Jan 2023 – Sep 2024*
-
-* Delivered high-performance apps with multiple payment gateways (Stripe, Razorpay, PhonePe).
-* Implemented API integrations, animations and state management with GetX and BLoC.
-* Worked in Agile teams and managed tasks in **Jira**.
-
-**Android & Flutter Developer – Swasthya Bharat LLP (Lucknow)**
-*Jan 2022 – Dec 2022*
-
-* Launched **3+ Android and Flutter apps**.
-* Integrated Firebase, Google Maps and push notifications.
+| | |
+| - | - |
+| **Languages** | Dart, Kotlin, Java |
+| **State** | BLoC, GetX, Provider |
+| **Injection** | GetIt, Injectable |
+| **Backend** | REST APIs, Firebase, Firestore, GraphQL |
+| **Features** | Payment gateways (PhonePe, Stripe, Razorpay), Google Maps, push notifications |
+| **Tooling** | Git, GitHub Actions, Jira, Claude Code, Cursor, GitHub Copilot |
 
 ---
 
-## 🛠 Skills & Tech Stack
+## Experience
 
-* **Languages:** Dart, Kotlin, Java
-* **Frameworks:** Flutter, Android SDK
-* **State Management:** BLoC, GetX, Provider
-* **Architecture:** Clean Architecture, Repository Pattern, MVC, MVVM
-* **Dependency Injection:** GetIt, Injectable
-* **Backend & APIs:** Firebase, REST APIs, GraphQL, Payment Gateways (PhonePe, Stripe, Razorpay)
-* **Databases:** Hive, SQLite, Firestore, SharedPreferences
-* **CI/CD & Tools:** Git, GitHub Actions, Jira, Google Maps, Push Notifications
+<div align="center">
+<a href="https://devavinash76.github.io/Devavinash76/"><img src="assets/site-roles.png" alt="Work history section" width="820"></a>
+</div>
+
+**Flutter Developer, BABVIP Creations** · Sep 2025 – Present · Dehradun · Hybrid
+- Clean Architecture for scalable, modular apps.
+- Dependency injection with GetIt and Injectable, repository pattern.
+- State with BLoC, GetX and Provider.
+
+**Flutter Developer, GMark Technologies** · Oct 2024 – May 2025 · UK · Remote
+- Cross-platform Flutter apps for UK clients.
+- REST API integration, BLoC and GetX, UI polish for the UK market.
+
+**Android & Flutter Developer, Elanwrap Technologies** · Jan 2023 – Sep 2024 · Dehradun · Hybrid
+- Payment gateways: PhonePe, Stripe, Razorpay.
+- Native apps in Java and Kotlin: 360 Notebooks, Verify App, N and K App.
+- Agile delivery with Git and Jira.
+
+**Android & Flutter Developer, Swasthya Bharat** · Jan 2022 – Dec 2022 · Lucknow
+- Launched 3+ Android and Flutter apps, including the pay-per-day gym booking app.
+- Firebase, Google Maps, push notifications. Recognised for the best-performing app of 2022.
+
+**Education:** B.Tech in Computer Science & Engineering, Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, 2017 – 2021
 
 ---
 
-## 🎓 Education
+## Hire me
 
-**B.Tech in Computer Science & Engineering**
-Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
-*2017 – 2021*
+<div align="center">
+<a href="https://devavinash76.github.io/Devavinash76/"><img src="assets/site-contact.png" alt="Contact section" width="820"></a>
 
----
+<a href="mailto:devavinash76@gmail.com"><img src="https://img.shields.io/badge/Email-devavinash76@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/919956005921"><img src="https://img.shields.io/badge/WhatsApp-+91_99560_05921-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.linkedin.com/in/avinashagnihotri/"><img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Devavinash76"><img src="https://img.shields.io/badge/GitHub-Devavinash76-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-## 🏆 Awards
+</div>
 
-* 🥇 Recognized by **Swasthya Bharat LLP** for best-performing app (2022).
-* ⭐ Top-rated developer at **Emergence Infotech Internship Program** (2021).
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Devavinash76"><img src="https://img.shields.io/badge/GitHub-Devavinash76-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avinashagnihotri/"><img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+I am available for full-time Flutter and mobile engineering roles and for freelance projects: new Android and iOS apps, feature work, and taking existing apps to the Play Store and App Store.
