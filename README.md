@@ -5,73 +5,101 @@
 <h2 align="center">Hi there! I'm Avinash Agnihotri 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&width=600&height=50&lines=Android+%7C+iOS+Developer;Clean+Architecture+%7C+State+Management;BLoC+%7C+GetX+%7C+Provider;UI%2FUX+Designer+%7C+Canva+%7C+Figma">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&width=700&height=50&lines=Flutter+Developer+%7C+Android+%26+iOS+Apps;Clean+Architecture+%7C+BLoC+%7C+GetX;Firebase+%7C+REST+APIs+%7C+Payment+Gateways">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinashagnihotri/"><img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:devavinash76@gmail.com"><img src="https://img.shields.io/badge/Email-devavinash76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a results-driven **Flutter and Android Developer** with 3+ years of experience, passionate about building **scalable, high-performance mobile apps**. Skilled in **Flutter, Dart, Kotlin, Java**, and well-versed in **Clean Architecture & State Management (BLoC, GetX, Provider, Redux)**.
+Flutter developer in **Dehradun, India** with **4+ years** of experience and a background in native Android (Kotlin, Java). I build and ship **Android and iOS apps** (Google Play and App Store) for clients in India and the UK, from a matrimonial platform with 35,000+ verified profiles to B2B ordering, e-commerce and party-booking apps.
 
-I love building apps that are not only functional but also **pixel-perfect, smooth, and performance-optimized**.
+- Dart and Kotlin, **Clean Architecture** and the repository pattern
+- State management with **BLoC, GetX and Provider**; dependency injection with **GetIt and Injectable**
+- REST API and Firebase integration, payment gateways (PhonePe, Stripe, Razorpay), Google Maps, push notifications, CI/CD with GitHub Actions
+- AI-assisted workflows (Claude Code, Cursor, GitHub Copilot, MCP) for code review, debugging and test generation
 
-📍 Noida, Uttar Pradesh | ✉️ [devavinash76@gmail.com](mailto:devavinash76@gmail.com) | 📞 +91 99560 05921
+📍 Dehradun, Uttarakhand, India · Currently at **BABVIP Creations** · Open to Flutter and mobile engineering roles and freelance projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| **Project**                         | **Platform**                                                                                                                                       | **Highlights**                                                    |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Sim Force**                       | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) · Android                                                                              | SIM management, secure authentication, seamless UI                |
-| **Cidos**                           | [iOS](https://apps.apple.com/us/app/cidos/id6741060786) · Android                                                                                  | Mobile parts, repair service, nearby store discovery              |
-| **PantherForce App**                | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=com.pantherforce.app) | Logistics & fleet management, live tracking                       |
-| **PantherForce Retail**             | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488)                                                                              | SIM activations & verifications, telecom API integration          |
-| **Phone Solution**                  | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolution.app)  | Vendor app for parts & accessories, order tracking                |
-| **PartyWitty (Customer & Partner)** | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) | Event booking, venue management, payments, analytics              |
-| **Rakshak Sewa**                    | [Android](https://play.google.com/store/apps/details?id=com.rakshak.sewa)                                                                          | Emergency app, GPS tracking, real-time alerts                     |
-| **Capsico Food Delivery**           | [Android](https://play.google.com/store/apps/details?id=com.capsico.fooddelivery)                                                                  | Food ordering, order tracking, secure payments                    |
-| **MuPlay**                          | iOS · Android                                                                                                                                      | Spotify-like music streaming app with playlists, background play  |
-| **ProFinderr (Customer & Biz)**     | iOS · Android                                                                                                                                      | Local e-commerce platform with secure checkout & seller dashboard |
-| **Swasthyabharat Gym**              | iOS · Android                                                                                                                                      | Gym discovery & booking app with Google Maps & notifications      |
+Apps I have built and shipped. Links go to the public store listings.
+
+| # | Project | What it does | Stores |
+| - | ------- | ------------ | ------ |
+| 01 | **B-Dealer** – B2B Dealer App | Dealers manage leads, check product details and handle customers from one platform. Built at BABVIP Creations. | [Android](https://play.google.com/store/apps/details?id=com.babvip.dealer) |
+| 02 | **Maangal** – Matrimonial App | Garhwali and Kumaoni matrimonial platform serving Uttarakhand since 2009, with 35,000+ verified profiles and profile screening. | [Android](https://play.google.com/store/apps/details?id=com.maangal_maangal.maangal) |
+| 03 | **MuPlay** – Music Streaming App | Spotify-like music player built with Flutter and GetX, with playlists, playback controls and background play. | [iOS](https://apps.apple.com/us/app/muplay/id6743873991) · [Android](https://play.google.com/store/apps/details?id=com.mu.play) |
+| 04 | **Kachara Clinic** – E-Waste Collection App | Doorstep e-waste collection: schedule pickups or drop-offs and earn Green Points rewards. | iOS · Android |
+| 05 | **ProFinderr** – Local E-commerce App | Local shopping with shop discovery, product browsing, cart, secure checkout and real-time order tracking. | [Android](https://play.google.com/store/apps/details?id=com.profinderr.main) |
+| 06 | **ProFinderr Biz** – Seller App | Seller app for product listings, orders, inventory and payments, with real-time order alerts and an analytics dashboard. | – |
+| 07 | **Cidos** – Mobile Parts & Repair App | Buy parts, book repairs for phones, tablets and iPads, and find nearby repair stores. | [iOS](https://apps.apple.com/us/app/cidos/id6741060786) |
+| 08 | **Partywitty Customer** – Party Booking App | Book party packages at restaurants, clubs and lounges across Delhi, Noida and Gurgaon, with real-time availability and secure payments. | [iOS](https://apps.apple.com/in/app/partywitty/id6478442502) · [Android](https://play.google.com/store/apps/details?id=com.party.partywitty_guest) |
+| 09 | **Partywitty Partner** – Venue Management App | Event hosts and venues manage bookings, showcase packages and track reservations, with customer chat and analytics. | [Android](https://play.google.com/store/apps/details?id=com.partywitty.partner) |
+| 10 | **PantherForce** – Vendor Ordering Platform | Bulk ordering of mobile parts and accessories with real-time inventory, order tracking and push notifications. | [iOS](https://apps.apple.com/us/app/pantherforce-app/id6739621500) · [Android](https://play.google.com/store/apps/details?id=uk.co.pantherforce.vendor) |
+| 11 | **Phone Solution** | Vendor app for parts and accessories with order tracking. | [iOS](https://apps.apple.com/us/app/phone-solution/id6740695502) · [Android](https://play.google.com/store/apps/details?id=com.phonesolutionltd.vendor) |
+| 12 | **SIM Force** | SIM management with secure authentication. | [iOS](https://apps.apple.com/us/app/sim-force/id6741714753) |
+| 13 | **PantherForce Retail** | SIM activations and verifications with telecom API integration. | [iOS](https://apps.apple.com/us/app/pantherforce-retail/id6740855488) |
+| 14 | **360 Notebooks** | Simple note-taking app in Java (existing app modified, new features added). | [Android](https://play.google.com/store/apps/details?id=com.notebook.notes) |
+| 15 | **Verify App** | Kotlin app for fixed-asset verification via scanner, built end to end. | – |
+| 16 | **N & K App** | Kotlin app for mobile IMEI number verification via scanner, built end to end. | – |
+| 17 | **GoCabs** | Cab booking app. | [Android](https://play.google.com/store/apps/details?id=com.gocabsuser) |
+| 18 | **Vivah Bandhan** | Matrimony app. | [Android](https://play.google.com/store/apps/details?id=com.vivahbandhan.matrimony) |
+| 19 | **Ghumakkad Trip** | Travel app. | [Android](https://play.google.com/store/apps/details?id=com.ghumakkad.trip) |
+| 20 | **Capsico** | Food ordering and delivery app. | [Android](https://play.google.com/store/apps/details?id=emergence.infotech.thecapsico) |
+
+Also built: **Swasthya Bharat – GYM Booking** (pay-per-day gym booking across 4,200+ gyms in 23 cities, 2022).
 
 ---
 
 ## 💼 Experience
 
-**Flutter Developer – Gmark Technology (Remote, UK)**
+**Flutter Developer – BABVIP Creations Pvt. Ltd. (Hybrid, Dehradun)**
+*Sep 2025 – Present*
+
+* Implemented Clean Architecture for scalable, modular development.
+* Applied dependency injection (GetIt and Injectable) and the repository pattern.
+* Managed app state with BLoC, GetX and Provider.
+
+**Flutter Developer – GMark Technologies (Remote, UK)**
 *Oct 2024 – May 2025*
 
 * Built and maintained cross-platform Flutter apps for UK-based clients.
-* Used **GetX** & **BLoC** for scalable state management.
+* Used **GetX** and **BLoC** for scalable state management.
 * Collaborated remotely with product teams to meet business goals.
 
-**Flutter Developer – Elanwarp Technologies Pvt. Ltd (Hybrid, Dehradun)**
+**Android & Flutter Developer – Elanwrap Technologies (Hybrid, Dehradun)**
 *Jan 2023 – Sep 2024*
 
 * Delivered high-performance apps with multiple payment gateways (Stripe, Razorpay, PhonePe).
-* Implemented API integrations, animations, and state management with GetX & BLoC.
-* Worked in Agile teams, managed tasks in **Jira**.
+* Implemented API integrations, animations and state management with GetX and BLoC.
+* Worked in Agile teams and managed tasks in **Jira**.
 
-**Flutter Developer – Swasthya Bharat LLP (Lucknow)**
+**Android & Flutter Developer – Swasthya Bharat LLP (Lucknow)**
 *Jan 2022 – Dec 2022*
 
-* Launched **3+ Android & Flutter apps**.
-* Integrated Firebase, Google Maps, Push Notifications.
-* Focused on UI/UX improvements.
+* Launched **3+ Android and Flutter apps**.
+* Integrated Firebase, Google Maps and push notifications.
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-* **Languages:** Flutter, Dart, Kotlin, Java
-* **State Management:** BLoC, GetX, Provider, Redux
-* **Backend:** Firebase, REST APIs, GraphQL
+* **Languages:** Dart, Kotlin, Java
+* **Frameworks:** Flutter, Android SDK
+* **State Management:** BLoC, GetX, Provider
+* **Architecture:** Clean Architecture, Repository Pattern, MVC, MVVM
+* **Dependency Injection:** GetIt, Injectable
+* **Backend & APIs:** Firebase, REST APIs, GraphQL, Payment Gateways (PhonePe, Stripe, Razorpay)
 * **Databases:** Hive, SQLite, Firestore, SharedPreferences
-* **CI/CD & Tools:** Git, GitHub Actions, Jira
-* **UI/UX & Animations:** Material Design, Custom Animations, Hero Animations, Lottie
-* **Architecture:** Clean Architecture, MVC, MVVM, MVM
+* **CI/CD & Tools:** Git, GitHub Actions, Jira, Google Maps, Push Notifications
 
 ---
 
@@ -94,9 +122,5 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
 
 <p align="center">
   <a href="https://github.com/Devavinash76"><img src="https://img.shields.io/badge/GitHub-Devavinash76-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/avinashagnihotri"><img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-2000%2B-brightgreen?style=for-the-badge&logo=eye" />
+  <a href="https://www.linkedin.com/in/avinashagnihotri/"><img src="https://img.shields.io/badge/LinkedIn-Avinash_Agnihotri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
